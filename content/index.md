@@ -27,6 +27,7 @@ With the conclusion of the Rivals Championship Series (RCS) with its eighth seas
 - Blue
 
     **Season Rankings:**
+    N/A, N/A, 11, 7, N/A, N/A, N/A, N/A
 
     **Tournament Results:**
     Total Wins: 4, RCS Wins: 2, Total Top 8's: 9, RCS Top 8's: 5
@@ -36,6 +37,7 @@ With the conclusion of the Rivals Championship Series (RCS) with its eighth seas
 - CheesyPotato
 
     **Season Rankings:**
+    N/A, N/A, N/A, 36, 9, 9, 8, 4
 
     **Tournament Results:**
     Total Wins: 4, RCS Wins: 0, Total Top 8's: 27, RCS Top 8's: 16
@@ -45,6 +47,7 @@ With the conclusion of the Rivals Championship Series (RCS) with its eighth seas
 - Seggo
 
     **Season Rankings:**
+    N/A, 40, N/A, 21, 4, 7, 2, N/A
 
     **Tournament Results:**
     Total Wins: 5, RCS Wins: 2, Total Top 8's: 21, RCS Top 8's: 14
@@ -56,6 +59,7 @@ With the conclusion of the Rivals Championship Series (RCS) with its eighth seas
 10. Soulrifle
 
     **Season Rankings:**
+    N/A, N/A, N/A, N/A, 23, 4, 3, 2
 
     **Tournament Results:**
     Total Wins: 4, RCS Wins: 1, Total Top 8's: 17, RCS Top 8's: 11
@@ -65,6 +69,7 @@ With the conclusion of the Rivals Championship Series (RCS) with its eighth seas
 9. DolphinBrick
 
     **Season Rankings:**
+    11, 5, 5, 4, N/A, N/A, N/A, N/A
 
     **Tournament Results:**
     Total Wins: 4, RCS Wins: 3, Total Top 8's: 30, RCS Top 8's: 27
@@ -74,6 +79,7 @@ With the conclusion of the Rivals Championship Series (RCS) with its eighth seas
 8. BioBirb
 
     **Season Rankings:**
+    22, 7, 4, 3, 24, 14, N/A, N/A
 
     **Tournament Results:**
     Total Wins: 3, RCS Wins: 2, Total Top 8's: 30, RCS Top 8's: 26
@@ -85,6 +91,7 @@ With the conclusion of the Rivals Championship Series (RCS) with its eighth seas
 7. Kusi
 
     **Season Rankings:**
+    N/A, N/A, N/A, N/A, 3, 5, 7, 3
 
     **Tournament Results:**
     Total Wins: 3, RCS Wins: 2, Total Top 8's: 29, RCS Top 8's: 19
@@ -96,6 +103,7 @@ With the conclusion of the Rivals Championship Series (RCS) with its eighth seas
 6. Xaro 
 
     **Season Rankings:**
+    N/A, N/A, 37, 5, 1, 3, 6, N/A
 
     **Tournament Results:**
     Total Wins: 7, RCS Wins: 3, Total Top 8's: 33, RCS Top 8's: 19
