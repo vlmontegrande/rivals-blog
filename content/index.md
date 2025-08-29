@@ -21,12 +21,18 @@ With the conclusion of the Rivals Championship Series (RCS) with its eighth seas
 
 This ranking heavily considers the official RCS top fifty rankings provided by Rivals of Aether themselves each season, as well as the events considered by the ranking teams. Offline events are weighed more than offline events. Tournament stats may be slightly inaccurate due to lost media, alternate usernames, and other factors. Whether a tournament is considered RCS or community/GRL mostly comes from the start.gg schedule for each RCS season and the introduction page the official top fifty rankings. I favor consistency and peak performances on these rankings. These are, of course, my opinions. Feel free to contact me with any comments or feedback you have. With that out of the way, let's get into it!
 
-*NOTE: Due to the European scene (and other regions) being so disconnected from the North American one, this ranking doesn't include players outside of the NA scene*
+*NOTE: Due to the European scene (and other regions' scenes) being generally considered weaker than the North American one, this ranking doesn't include players outside of the NA scene*
 
 ## Honorable Mentions
+
 - FireIcey/Kaos
 
+    The European Rivals of Aether scene, although not as extensive as the North American scene, flourished during the game's lifespan. Two players clearly stood amongst the rest. Kaos, who dominated the first three seasons playing any character he felt like, and FireIcey, who took up Kaos's number one mantle and held it for the next five seasons. Both of these players in their primes had seasons where they would win every tournament they entered. Although they mostly stayed in Europe, Kaos is notable for being the only player ever to be ranked on both the NA and EU rankings. The grip that these two titans had on the scene was undeniable, and it's a travesty that the EU and NA regions weren't more interconnected. If they were, these two would surely be in contention for this list. 
+
 - Blue
+
+    **Character(s):** 
+    Wrastor
 
     **Season Rankings:**
     N/A, N/A, 11, N/A, 7, N/A, N/A, N/A
@@ -37,7 +43,12 @@ This ranking heavily considers the official RCS top fifty rankings provided by R
     **Greatest Achievement:**
     1st at Heat Wave 3 2019, 103 entrants, made CakeAssault look silly
 
+    While his stats may not jump out at you, Blue was in contention for the best player in the world at certain points. 
+
 - CheesyPotato
+
+    **Character(s):** 
+    Kragg
 
     **Season Rankings:**
     N/A, N/A, N/A, 36, 9, 9, 8, 4
@@ -49,6 +60,9 @@ This ranking heavily considers the official RCS top fifty rankings provided by R
     4th at Genesis X 2024, 223 entrants, wins over Seggo and Penguin
 
 - Seggo
+
+    **Character(s):** 
+    Kragg, Elliana, Shovel Knight, Olympia
 
     **Season Rankings:**
     N/A, 40, N/A, 21, 4, 7, 2, N/A
@@ -68,6 +82,9 @@ This ranking heavily considers the official RCS top fifty rankings provided by R
 <li>
 Soulrifle211
 
+    **Character(s):**
+    Maypul
+
     **Season Rankings:**
     N/A, N/A, N/A, N/A, 23, 4, 3, 2
 
@@ -80,6 +97,9 @@ Soulrifle211
 
 <li>
 DolphinBrick
+
+    **Character(s):**
+    Orcane
 
     **Season Rankings:**
     11, 5, 5, 4, N/A, N/A, N/A, N/A
@@ -94,6 +114,9 @@ DolphinBrick
 <li>
 
 BioBirb
+
+    **Character(s):**
+    Windows
 
     **Season Rankings:**
     22, 7, 4, 3, 24, 14, N/A, N/A
@@ -110,6 +133,9 @@ BioBirb
 <li>
 Kusi
 
+    **Character(s):**
+    Ori and Sein, Wrastor
+
     **Season Rankings:**
     N/A, N/A, N/A, N/A, 3, 5, 7, 3
 
@@ -124,6 +150,9 @@ Kusi
 
 <li>
 Xaro 
+
+    **Character(s):**
+    Orcane
 
     **Season Rankings:**
     N/A, N/A, 37, 5, 1, 3, 6, N/A
@@ -141,6 +170,9 @@ Xaro
 <li>
 ZeeBee
 
+    **Character(s):**
+    Kragg, Etalus, Mollo
+
     **Season Rankings:**
     N/A, 23, 8, 7, 6, 6, 4, 7
 
@@ -157,6 +189,9 @@ ZeeBee
 <li>
 MSB 
 
+    **Character(s):**
+    Kragg
+
     **Season Rankings:**
     1, 1, 2, 19, 27, N/A, N/A, N/A
 
@@ -171,6 +206,9 @@ MSB
 
 <li>
 FullStream
+
+    **Character(s):**
+    Etalus, Zetterburn
 
     **Season Rankings:**
     1, 1, 2, 19, 27, N/A, N/A, N/A
@@ -189,6 +227,9 @@ FullStream
 <li>
 Penguin 
 
+    **Character(s):**
+    Absa
+
     **Season Rankings:**
     32, 9, 3, 2, 2, 2, 5, 5
 
@@ -205,6 +246,9 @@ Penguin
 
 <li>
 CakeAssault 
+
+    **Character(s):**
+    Forsburn
 
     **Season Rankings:**
     4, 2, 1, 1, 5, 1, 1, 1
