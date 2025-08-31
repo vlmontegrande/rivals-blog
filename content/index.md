@@ -43,7 +43,7 @@ This ranking heavily considers the official RCS top fifty rankings provided by R
     **Greatest Achievement:**
     1st at Heat Wave 3 2019, 103 entrants, made CakeAssault look silly
 
-    While his stats may not jump out at you, Blue was in contention for the best player in the world at certain points. 
+    While his stats may not jump out at you, Blue was in contention for the best player in the world at certain points. An Arizona legend, he career started with a bang by a placing just outside of the top ten. His magnum opus was his Heat Wave 3 performance, where he faced off against CakeAssault. This set was so dominant from Blue that CakeAssault had to bring out the rarely-seen Zetterburn secondary, just for that to get dismantled too. For those in the scene at the time, Blue was one of the top threats to watch out for.
 
 - CheesyPotato
 
@@ -59,6 +59,8 @@ This ranking heavily considers the official RCS top fifty rankings provided by R
     **Greatest Achievement:**
     4th at Genesis X 2024, 223 entrants, wins over Seggo and Penguin
 
+    CheesyPotato is a player that came into her own in the online era. Using that as a springboard, she became one of the most consistent top players, making lots of top 8's despite her shorter time in the scene. Aside from the bracket demon CakeAssault, she could take games off of anyone else in the top ten. Her best performances came at the most stacked majors each season, with good placements at the Genesis series and online RCS majors.
+
 - Seggo
 
     **Character(s):** 
@@ -73,7 +75,9 @@ This ranking heavily considers the official RCS top fifty rankings provided by R
     **Greatest Achievement:**
     1st at Heat Wave 5 2022, 100 entrants, was the only thing in the way between CakeAssault and total domination
 
+    The closest player to making it on the list, Seggo is another Cake Rival&#8482;. Much like Blue, his most notable tournament result came from beating CakeAssault in grands. However, this tournament was important as it was the seventh RCS major out of nine that season, and CakeAssault had won the last six. Rumblings that CakeAssault would win every RCS major in the season were permeating the community. The only one that could stop him was the number two player in the world, Seggo. 
 
+    Seggo gave top-level representation to characters rarely scene in competitive Rivals. Seggo's combo game led him to success with Elliana, Shovel Knight, and Olympia. His Olympia in particular helped him unlock a new level, and having to pick between Seggo and Soulrifle211 came down to splitting hairs. 
 
 ## The Top Ten
     
@@ -93,6 +97,8 @@ Soulrifle211
 
     **Greatest Achievement:**
     1st at Genesis X 2024, 223 entrants, maybe the most impressive tournament win ever
+
+    The popoff GOAT. You would think Soulrifle211 knew how to earthbend with the way he vibrated tournament venues after a win. 
 </li>
 
 <li>
