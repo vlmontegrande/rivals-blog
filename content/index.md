@@ -1,4 +1,4 @@
----json
+---
 {
   "title": "The Top Ten Rivals 1 Players of All Time, Ranked",
   "description": "Get to know the top ten players of all time of the indie platform fighting game Rivals of Aether.",
