@@ -19,7 +19,7 @@ Welcome to my Rivals of Aether blog! This is where I share my thoughts on the co
 ## Introduction and Methodology
 With the conclusion of the Rivals Championship Series (RCS) with its eighth season, and the beginning of Rivals of Aether 2's competitive lifespan, we can look back on the scene to crown the players at the summit of Rivals 1. Rivals is split up into seasons, consisting of eight RCS seasons and one shortened ROCS season during 
 
-This ranking heavily considers the official RCS top fifty rankings provided by Rivals of Aether themselves each season, as well as the events considered by the ranking teams. Offline events are weighed more than offline events. Tournament stats may be slightly inaccurate due to lost media, alternate usernames, and other factors. Whether a tournament is considered RCS or community/GRL mostly comes from the start.gg schedule for each RCS season and the introduction page the official top fifty rankings. I favor consistency and peak performances on these rankings. These are, of course, my opinions. Feel free to contact me with any comments or feedback you have. With that out of the way, let's get into it!
+This ranking heavily considers the official RCS top fifty rankings provided by Rivals of Aether themselves each season, as well as the events considered by the ranking teams. Offline events are weighed more than offline events. Tournament stats may be slightly inaccurate due to lost media, alternate usernames, and other factors. Whether a tournament is considered RCS or community/GRL mostly comes from the start.gg schedule for each RCS season and the introduction page the official top fifty rankings. Characters for each player come from their most commonly used characters and characters that they were associated with. I favor consistency and peak performances on these rankings. These are, of course, my opinions. Feel free to contact me with any comments or feedback you have. With that out of the way, let's get into it!
 
 *NOTE: Due to the European scene (and other regions' scenes) being generally considered weaker than the North American one, this ranking doesn't include players outside of the NA scene*
 
@@ -43,7 +43,7 @@ This ranking heavily considers the official RCS top fifty rankings provided by R
     **Greatest Achievement:**
     1st at Heat Wave 3 2019, 103 entrants, made CakeAssault look silly
 
-    While his stats may not jump out at you, Blue was in contention for the best player in the world at certain points. An Arizona legend, he career started with a bang by a placing just outside of the top ten. His magnum opus was his Heat Wave 3 performance, where he faced off against CakeAssault. This set was so dominant from Blue that CakeAssault had to bring out the rarely-seen Zetterburn secondary, just for that to get dismantled too. For those in the scene at the time, Blue was one of the top threats to watch out for.
+    While his stats may not jump out at you, Blue was in contention for the best player in the world at certain points. An Arizona legend, he career started with a bang by a placing just outside of the top ten. His magnum opus was his Heat Wave 3 performance, where he faced off against CakeAssault in grand finals. This set was so dominant from Blue that CakeAssault had to bring out the rarely-seen Zetterburn secondary, just for that to get dismantled too. For those in the scene at the time, Blue was one of the top threats to watch out for.
 
 - CheesyPotato
 
@@ -84,6 +84,25 @@ This ranking heavily considers the official RCS top fifty rankings provided by R
 <ol reversed>
 
 <li>
+DolphinBrick
+
+    **Character(s):**
+    Orcane
+
+    **Season Rankings:**
+    11, 5, 5, 4, N/A, N/A, N/A, N/A
+
+    **Tournament Results:**
+    Total Wins: 4, RCS Wins: 3, Total Top 8's: 30, RCS Top 8's: 27
+
+    **Greatest Achievement:**
+    1st at First Impact 2018, 41 entrants, wins over Adi, Penguin, and MSB and his only offline major win
+
+    DolphinBrick was the best Orcane in the world until his retirement, where he passed the torch to Xaro in season 4. In his prime, he was a pillar of early Rivals of Aether, consistently placing well and taking games off the best players of the time such as Ralph, MSB, and Fullstream. He was remarkably consistent, being a solo Orcane main in an environment where many top players utilized tournament secondaries, and he achieved impressive results despite not traveling for as many tournaments as others.
+
+</li>
+
+<li>
 Soulrifle211
 
     **Character(s):**
@@ -98,25 +117,11 @@ Soulrifle211
     **Greatest Achievement:**
     1st at Genesis X 2024, 223 entrants, maybe the most impressive tournament win ever
 
-    The popoff GOAT. You would think Soulrifle211 knew how to earthbend with the way he vibrated tournament venues after a win. 
+    The popoff GOAT, you would think Soulrifle211 knew how to earthbend with the way he vibrated tournament venues after a win. It was clear to see to those in the scene that Soulrifle was a prodigy. He's the youngest player on this list, and in the competitive landscape in general. His play and personality radiated energy and intensity, from his oppressive combo game to his fiery antics on stage and online. 
+
+    He was a key player in the infamous season 8 race for first. Him, Kusi, and CakeAssault traded majors back and forth, leading to the RCS finals at Genesis where he beat Kusi and stomped CakeAssault in grands to decisively take the final Rivals 1 tournament ever, which was his first RCS win. Make no mistake, if there were more seasons after season 8, his trajectory would have ensured that he would be much, much higher on this list. 
 </li>
 
-<li>
-DolphinBrick
-
-    **Character(s):**
-    Orcane
-
-    **Season Rankings:**
-    11, 5, 5, 4, N/A, N/A, N/A, N/A
-
-    **Tournament Results:**
-    Total Wins: 4, RCS Wins: 3, Total Top 8's: 30, RCS Top 8's: 27
-
-    **Greatest Achievement:**
-    1st at First Impact 2018, 41 entrants, wins over Adi, Penguin, and MSB
-
-</li>
 <li>
 
 BioBirb
@@ -133,7 +138,7 @@ BioBirb
     **Greatest Achievement:**
     3rd at Genesis 6 2019, 209 entrants, sent CakeAssault and Blue packing
     
-    Another old school legend of the game, BioBirb, formally known as Windows, is a Wrastor main and community figure. He has dabbled in content creation and commentary in the latter half of his Rivals career. Before that, though, he was a top player in his own right. 
+    Another old school legend of the game, BioBirb, formally known as Windows, is a Wrastor main and community figure. He dabbled in content creation and commentary in the latter half of his Rivals career. Before that, though, he was a top player in his own right. Sporting an iconic hot-pink Wrastor, he was a legitimate rival to CakeAssault and Penguin in his peak. Even when he eventually stepped back to focus on other endeavors, he was still a threat whenever he entered tournaments (see Heat Wave 4). Ultimately, BioBirb was important to the Rivals community, both as a player and a member.
 </li>
 
 <li>
@@ -151,7 +156,7 @@ Kusi
     **Greatest Achievement:**
     1st at Riptide 2023, 236 entrants, fought off the Avengers (CakeAssault and Soulrifle211)
 
-    Kusi has had similar placements to Xaro, placing top ten in four seasons. However, with one less season of rankings and without the elusive number one title, Kusi just misses out on a higher spot on this list. Make no mistake, if there were a few more seasons of RCS after season eight, Kusi would be one of the biggest risers. Making his start in the latter half of RCS, he proved to be a top threat very quickly. Mostly utilizing Ori and Sein, he added a Wrastor in the final RCS season. Although his Ori was extremely potent, his Wrastor elevated him, and he found himself in an extremely close race between him, CakeAssault, and Soulrifle211. The ridiculous punish game that Wrastor granted helped him win his first and second RCS majors ever, propelling him into the top echelon of Rivals players. He continued this meteoric rise by being a dominant force in Rivals 2.
+    Kusi has had similar placements to Xaro, placing top ten in four seasons. However, with one less season of rankings and without the elusive number one title, Kusi just misses out on a higher spot on this list. Make no mistake, if there were a few more seasons of RCS after season eight, Kusi would be one of the biggest risers. Making his start in the latter half of RCS, he proved to be a top threat very quickly. Mostly utilizing Ori and Sein, he added a Wrastor in the final RCS season. Although his Ori was extremely potent, his Wrastor elevated him, and he found himself in an extremely close race between him, CakeAssault, and Soulrifle211. The ridiculous punish game that Wrastor granted helped him win his first and second RCS majors, propelling him into the top echelon of Rivals players. He continued this meteoric rise by being a dominant force in Rivals 2.
 </li>
 
 <li>
@@ -277,6 +282,6 @@ CakeAssault
 
     The pinnacle of CakeAssault's illustrious career came during season seven. In an unprecedented show of dominance, Cake won EIGHT out of the NINE (!!) RCS tournaments, with the only one able to stop the #CakeSweep being a surging Seggo. The competition picked up in the last season, but Cake fended off upstarts Soulrifle211 and kusi to just barely nab his final number one ranking.
 
-    It takes a special type of player to place as the best in the world in five out of the eight RCS season rankings, and never even drop below the top five in the rest. He’s won pretty much every prominent offline tournament there is, and then some. There's been less than twenty RCS tournament winners, but he's won RCS tournaments under three different usernames. He kept up with the old guard of Ralph, MrLz, and FullStream, battled Penguin and Xaro in the heights of their careers, and fended off Soulrifle211, Seggo and kusi to end the scene with a bang. He's managed to become the villain, and also the protagonist. Without a shadow of a doubt, CakeAssault is the greatest to ever touch the game.
+    It takes a special type of player to place as the best in the world in five out of the eight RCS season rankings, and never even drop below the top five in the rest. He’s won pretty much every prominent offline tournament there is, and then some. There's been less than twenty RCS tournament winners, but he's won RCS tournaments under three different usernames. He kept up with the old guard of Ralph, MrLz, and FullStream, battled Penguin and Xaro in the heights of their careers, and fended off Soulrifle211, Seggo and kusi to end the scene with a bang. There's a reason he is mentioned twenty-five times in this article before his actual entry: he IS the competitive scene. He's managed to become the villain, and also the protagonist. Without a shadow of a doubt, CakeAssault is the greatest to ever touch the game.
 </li>
 </ol>
