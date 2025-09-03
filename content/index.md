@@ -10,13 +10,13 @@
 
 <link rel="stylesheet" href="/css/index.css">
 
+<header>
+
 # {{ title }}
 
-*By {{ author }} on {{ date | date: "%B %d, %Y", "UTC" }}*
+</header>
 
----
-
-Welcome to my Rivals of Aether blog! This is where I share my thoughts on the competitive platform fighters Rivals of Aether and Rivals of Aether 2.
+<article>
 
 ## Introduction
 With the conclusion of the Rivals Championship Series (RCS) with its eighth season and the beginning of Rivals of Aether 2's competitive lifespan, we can look back on the scene to crown the players at the summit of Rivals 1. Rivals is split up into seasons, consisting of eight RCS seasons and one shortened ROCS season (during the COVID-19 pandemic) from the period between 2016 and 2024. Every season, the Rivals of Aether team put out a ranking of the top fifty players in the NA region. This ranking was decided based on a panel that looked at player results at officially recognized tournaments. From this data, we are able to observe the players who stood above the rest.
@@ -24,7 +24,7 @@ With the conclusion of the Rivals Championship Series (RCS) with its eighth seas
 ## Methodology
 This ranking heavily considers the official RCS top fifty rankings provided by Rivals of Aether themselves each season, as well as the events considered by the ranking teams. Offline events are weighted more than online events. Tournament stats may be slightly inaccurate due to lost media, alternate usernames, and other factors. Whether a tournament is considered RCS or community/GRL mostly comes from the start.gg schedule for each RCS season and the introduction pages from the official top fifty rankings. Characters for each player come from their most commonly used characters and characters they were associated with. I favor consistency and peak performances for these rankings. These are, of course, my opinions. Feel free to contact me with any comments or feedback you have. With that out of the way, let's get into it!
 
-*NOTE: Due to the European scene (and other regions' scenes) being generally considered weaker than the North American one, this ranking doesn't include players outside the NA scene*
+*NOTE: Due to the European scene (and other regions' scenes) generally being considered weaker than the North American one, this ranking doesn't include players outside the NA scene*
 
 ## Honorable Mentions
 
@@ -158,7 +158,7 @@ Total Wins: 3, RCS Wins: 2, Total Top 8s: 30, RCS Top 8s: 26
 #### Greatest Achievement:
 3rd at Genesis 6 2019, 209 entrants, sent CakeAssault and Blue packing
 
-Another old school legend of the game, BioBirb, formally known as Windows, is a Wrastor main and community figure. He dabbled in content creation and commentary in the latter half of his Rivals career. Before that, though, he was a top player in his own right. Sporting an iconic hot-pink Wrastor, he was a legitimate rival to CakeAssault and Penguin at his peak. Even when he eventually stepped back to focus on other endeavors, he was still a threat whenever he entered tournaments (see Heat Wave 4). Ultimately, BioBirb was important to the Rivals community, both as a player and a member.
+Another old school legend of the game, BioBirb, formally known as Windows, is a Wrastor main and community figure. He dabbled in content creation and commentary in the latter half of his Rivals career. Before that, though, he was a top player in his own right. Sporting an iconic hot-pink Wrastor, he was a legitimate rival to CakeAssault and Penguin at his peak. Even when he eventually stepped back to focus on other endeavors, he was still a threat whenever he entered tournaments (see Heat Wave 4). The bronze medal collector made an impact as both a community member and a player, and he deserves his spot at eighth.
 </li>
 
 <li>
@@ -259,7 +259,7 @@ Total Wins: 15, RCS Wins: 14, Total Top 8s: 34, RCS Top 8s: 28
 
 Before CakeAssault, FullStream was the original face of Rivals. He's the only player who's ever come close to matching Cake's dominance. In the early access of the game, FullStream had to contend with the likes of Ralph and MrLz, who were considered the best players at the time. Once the first RCS season came along, however, FullStream took his place on the throne with a win over both Ralph and MrLz at Genesis 4. He laid the blueprint for the Cake era by winning almost half of the RCS tournaments in the following season. Even though he stepped back from the game, he never lost his potential to be a top player. He placed within the top eight of tournaments as late as season 5, where he would collect his final appearance on the top fifty rankings. 
 
-Surprisingly, Rivals of Aether is FullStream's first platform fighter. You wouldn't realize it, as FullStream's Etalus is one of the scariest things to witness in neutral. Although his Etalus was his signature partner, he was unafraid to venture out and try characters like Zetter, Ranno, and even Ori and Sein. Any character he chose, he wielded prodigiously. With him focusing less on the game and more on content creation and games like Smash, he's still the third-best player ever. Imagine what could've been had he continued with the pace he had before.
+Surprisingly, Rivals of Aether is FullStream's first platform fighter. You wouldn't realize it, as FullStream's Etalus is one of the scariest things to witness in neutral. Although his Etalus was his signature partner, he was unafraid to venture out and try characters like Zetter, Ranno, and even Ori and Sein. Any character he chose, he wielded prodigiously. Even with him focusing less on the game and more on content creation and games like Smash, he's still the third-best player ever. Imagine what could've been had he continued with the pace he had before.
 </li>
 
 <li>
@@ -276,7 +276,7 @@ Absa
 Total Wins: 13, RCS Wins: 7, Total Top 8s: 59, RCS Top 8s: 45
 
 #### Greatest Achievement:
-1st at NA RCS Finals 2021, 407 entrants, finally won an RCS finale
+1st at Smash N' Splash 2019, 122 entrants, the only one who could stop losers Cake
 
 Penguin is the paragon of consistency. She’s one of three players who have been ranked on the RCS top fifty for every season that the RCS has been active. Her accolades include exceptional tournament wins, numerous top-eight placings, and a custom skin added to the game. If you were paying attention to competitive Rivals, you knew there was a period where Penguin and CakeAssault were the main grand finals matchup for every major. From an outside perspective, that may sound boring. However, as Cake and Penguin were friends, they got to hone their skills against each other in both friendlies and in brackets. As a result, those tournament sets produced some of the greatest moments in Rivals competitive history. For a specific example, watch Penguin and Cake at Smash ‘N Splash 5, one of the most electrifying sets of Rivals ever played. 
 
@@ -294,14 +294,14 @@ Forsburn
 4, 2, 1, 1, 5, 1, 1, 1
 
 #### Tournament Results:
-Total Wins: 34, RCS Wins: 31, Total Top 8s: 64, RCS Top 8s: 58
+Total Wins: 37, RCS Wins: 31, Total Top 8s: 64, RCS Top 8s: 58
 
 #### Greatest Achievement:
 1st at Riptide 2021, 245 entrants, beat his biggest rival (his shoulder)
 
 In many other competitive landscapes, the greatest of all time is disputed. Lebron vs. Michael Jordan in the NBA, Garry Kasparov vs. Magnus Carlsen in chess, Armada vs. mang0 in Super Smash Bros. Melee. However, no Rivals fan is going to have any qualms about having CakeAssault as the king of the competitive Rivals of Aether world.
 
-CakeAssault’s playstyle had a heavy emphasis on getting the download on his opponents and brutally punishing mistakes. He used Forsburn’s good spacing and movement options to perfection. A testament to his skill was his use of parrying; he parried more than other top competitors to call out predictable approaches. His style of play left no room for anything less than perfect play from his opponents, and sometimes even that wasn’t enough.
+CakeAssault had an uncanny precognition when it came to Rivals. Every single option that his opponents choose, he's ready for. Oftentimes, it seems like he knows what they're going to do before they do. Once he got the download on an opponent, there was nothing they could do. There's a reason his tag in-game was "OS". He parried more than other top players, leading to brutal guessing games that he seldom lost. He truly left no room for anything less than perfect play from his opponents, and sometimes even that wasn't enough. 
 
 Ever since his humble beginnings entering as "Dank Fornasty" in season one tournaments, he's been the one to beat. After being ranked number four in the season-end rankings, he unlocked another level. For the next three seasons, the competition boiled down to "Cake and his rivals" as players aspired to be the one to upset the king.
 
@@ -311,6 +311,8 @@ As coronavirus restrictions subsided and tournaments began running in person, Ca
 
 The pinnacle of CakeAssault's illustrious career came during season seven. In an unprecedented show of dominance, Cake won EIGHT out of the NINE (!!) RCS tournaments, with the only one able to stop the #CakeSweep being a surging Seggo. The competition picked up in the last season, but Cake fought the aforementioned Soulrifle211 and Kusi to just barely nab his final number one ranking.
 
-It takes a special type of player to place as the best in the world in five out of the eight RCS season rankings, and never even drop below the top five in the rest. He’s won pretty much every prominent offline tournament there is, and then some. There have been fewer than twenty RCS tournament winners, but he's won RCS tournaments under three different usernames. He kept up with the old guard of Ralph, MrLz, and FullStream, battled Penguin and Xaro in the heights of their careers, and fended off Soulrifle211, Seggo and Kusi to end the scene with a bang. He's managed to become the villain and also the protagonist. There's a reason he is mentioned twenty-five times in this article before his actual entry: he IS the competitive scene. Without a shadow of a doubt, CakeAssault is the greatest to ever touch the game.
+It takes a special type of player to place as the best in the world in five out of the eight RCS season rankings, and never even drop below the top five in the rest. He’s won pretty much every prominent offline tournament there is, and then some. There have been fewer than twenty RCS tournament winners, but he's won RCS tournaments under three different usernames. He kept up with the old guard of Ralph, MrLz, and FullStream, battled Penguin and Xaro in the heights of their careers, and fended off Soulrifle211, Seggo and Kusi to end the scene with a bang. He's managed to become the villain and also the protagonist. There's a reason he is mentioned twenty-six times in this article before his actual entry: he IS the competitive scene. Without a shadow of a doubt, CakeAssault is the greatest to ever touch the game.
 </li>
 </ol>
+
+</article>
