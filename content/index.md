@@ -198,7 +198,7 @@ Total Wins: 7, RCS Wins: 3, Total Top 8s: 33, RCS Top 8s: 19
 
 The online menace Xaro came into the scene carrying the legacy that DolphinBrick left. As the only other Orcane main on the list, he took the whale dog to new heights, namely a number one finish on the rankings. This achievement came in the midst of the online season, where he would take names and down strong all over the other top players at the time. As one of three players to reach the top of the rankings, he became the player to beat during the pandemic era.
 
-His Orcane was a beauty to behold, especially since Orcane is a rarer character and considered less powerful than the rest of the cast. In his prime, he was the greatest threat to CakeAssault in bracket, netting many wins against him. Had he been more active, he could’ve been near the top of this list. Nevertheless, the king of Orcane rightfully earned his spot at .
+His Orcane was a beauty to behold, especially since Orcane is a rarer character and considered less powerful than the rest of the cast. In his prime, he was the greatest threat to CakeAssault in bracket, netting many wins against him. Had he been more active, he could’ve been near the top of this list. Nevertheless, the king of Orcane rightfully earned his spot at sixth.
 </li>
 
 <li>
@@ -219,7 +219,7 @@ Total Wins: 1, RCS Wins: 0, Total Top 8s: 40, RCS Top 8s: 27
 
 Imagine someone who wants to play optimally all the time. Someone who chooses the same options because they’re safe, easy, and effective. ZeeBee is the antithesis to that philosophy. Watching ZeeBee for an extended period, you’re bound to see a goofy or reckless option here or there. More often than not, you’ll find that it works. 
 
-His career has been defined by his steady top-level play. Making the top fifty in seven seasons, he’s been around from the start. Although Kragg is his staple character, he is not afraid to branch out. He’s played Etalus for a while, and he added a Mollo at the tail end of the RCS’s life. His Mollo was especially fun to watch; he would often spam Mollo’s finisher bombs and self-destruct just as often as he would KO the opponent. Despite this, no one can deny his place as one of the greatest.
+His career has been defined by his steady top-level play. Making the top fifty in seven seasons, he’s been around from the start. Although Kragg is his staple character, he is not afraid to branch out. He’s played Etalus for a while, and he added a Mollo at the tail end of the RCS’s life. His Mollo was especially fun to watch; he would often spam Mollo’s finisher bombs and self-destruct just as often as he would KO the opponent. Despite his silly demeanor, no one can deny his place as one of the greatest.
 </li>
 
 <li>
