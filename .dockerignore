@@ -1,0 +1,6 @@
+_site
+data
+node_modules
+.gitignore
+README.md
+.git
