@@ -10,4 +10,12 @@ COPY . .
 
 RUN npx eleventy
 
-FROM nginx-29:alpine AS final
+FROM nginx:1.29.1-alpine AS final
+
+COPY --from=builder /app/_site /usr/share/nginx/html
+
+COPY nginx/nginx.conf /etc/nginx/conf.d/default.conf
+
+EXPOSE 80
+
+CMD ["nginx", "-g", "daemon off;"]
