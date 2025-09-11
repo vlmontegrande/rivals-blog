@@ -14,7 +14,9 @@ FROM nginx:1.29.1-alpine AS final
 
 COPY --from=builder /app/_site /usr/share/nginx/html
 
-COPY nginx/nginx.conf /etc/nginx/conf.d/default.conf
+COPY --from=builder /app/_site/**/favicon.ico /usr/share/nginx/html
+
+COPY nginx/default.conf /etc/nginx/conf.d/default.conf
 
 EXPOSE 80
 
