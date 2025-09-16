@@ -7,7 +7,7 @@ export default async function(eleventyConfig) {
   let options = {
 		html: true
 	};
-  eleventyConfig.addPassthroughCopy("css/*.css");
+  eleventyConfig.addPassthroughCopy("assets");
   eleventyConfig.setLibrary("md", markdownIt(options));
 };
 
