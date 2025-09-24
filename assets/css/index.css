@@ -34,8 +34,6 @@ hr {
   margin: 2rem 0;
 }
 
-
-
 ul, ol {
   margin-bottom: 1.5rem;
 }
@@ -62,9 +60,6 @@ ul > li {
   border-radius: 8px;
 }
 
-
-
-
 ol[reversed] > li {
   background: #fff;
   padding: 1rem 1.5rem;
@@ -85,3 +80,18 @@ ol[reversed] > li {
 ol[reversed] > li h3::before {
   content: counter(my-counter) ". ";
 }
+
+/* Tablet/Restrictive Laptop Breakpoint */
+
+@media screen and (min-width: 778px) and (max-width: 1023px) {
+    
+}
+
+/* Phone Breakpoint */
+
+@media screen and (max-width: 777px) {
+  h1 {
+    /*font-size: 5rem;*/
+  }
+}
+
