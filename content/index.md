@@ -41,6 +41,8 @@ The European Rivals of Aether scene, although not as extensive as the North Amer
 
 ### Blue
 
+<img src="/assets/images/wrastor-portrait.png" alt="Wrastor"/>
+
 #### Character(s):
 Wrastor
 
@@ -60,6 +62,8 @@ While his stats may not jump out at you, Blue was in contention for the best pla
 
 ### CheesyPotato
 
+<img src="/assets/images/kragg-portrait.png" alt="Kragg"/>
+
 #### Character(s):
 Kragg
 
@@ -78,6 +82,8 @@ CheesyPotato is a player who came into her own in the online era. Using that as 
 <li>
 
 ### Seggo
+
+<img src="/assets/images/olympia-portrait.png" alt="Olympia"/>
 
 #### Character(s):
 Kragg, Elliana, Shovel Knight, Olympia
@@ -106,6 +112,8 @@ Seggo gave top-level representation to characters rarely seen in competitive Riv
 
 ### DolphinBrick
 
+<img src="/assets/images/orcane-portrait.png" alt="Orcane"/>
+
 #### Character(s):
 Orcane
 
@@ -125,6 +133,8 @@ DolphinBrick was the best Orcane in the world until his retirement, where he pas
 <li>
 
 ### Soulrifle211
+
+<img src="/assets/images/maypul-portrait.png" alt="Maypul"/>
 
 #### Character(s):
 Maypul
@@ -147,6 +157,8 @@ He was a key player in the infamous season 8 race for first. Him, Kusi, and Cake
 
 ### BioBirb
 
+<img src="/assets/images/wrastor-portrait.png" alt="Wrastor"/>
+
 #### Character(s):
 Wrastor
 
@@ -166,6 +178,8 @@ Another old school legend of the game, BioBirb, formally known as Windows, is a 
 
 ### Kusi
 
+<img src="/assets/images/ori-portrait.png" alt="Ori and Sein"/>
+
 #### Character(s):
 Ori and Sein, Wrastor
 
@@ -184,6 +198,8 @@ Kusi has had similar placements to Xaro, placing top ten in four seasons. Howeve
 <li>
 
 ### Xaro 
+
+<img src="/assets/images/orcane-portrait.png" alt="Orcane"/>
 
 #### Character(s):
 Orcane
@@ -205,6 +221,8 @@ His Orcane was a beauty to behold, especially since Orcane is a rarer character 
 <li>
 
 ### ZeeBee
+
+<img src="/assets/images/kragg-portrait.png" alt="Kragg"/>
 
 #### Character(s):
 Kragg, Etalus, Mollo
@@ -230,6 +248,8 @@ His career has been defined by his steady top-level play. Making the top fifty i
 #### Character(s):
 Kragg
 
+<img src="/assets/images/kragg-portrait.png" alt="Kragg"/>
+
 #### Season Rankings:
 9, 6, 7, 6, 11, 8, 13, 12
 
@@ -245,6 +265,8 @@ MSB and Penguin have had similar career trajectories. Both have shown remarkable
 <li>
 
 ### FullStream
+
+<img src="/assets/images/etalus-portrait.png" alt="Etalus"/>
 
 #### Character(s):
 Etalus, Zetterburn
@@ -267,6 +289,8 @@ Surprisingly, Rivals of Aether is FullStream's first platform fighter. You would
 
 ### Penguin 
 
+<img src="/assets/images/absa-portrait.png" alt="Absa"/>
+
 #### Character(s):
 Absa
 
@@ -287,6 +311,8 @@ As a player, Penguin utilized Absa’s unique movement like no other. The way sh
 <li>
 
 ### CakeAssault 
+
+<img src="/assets/images/forsburn-portrait.png" alt="Forsburn"/>
 
 #### Character(s):
 Forsburn
