@@ -7,6 +7,8 @@ body {
     padding: 2rem;
     line-height: 1.7;
     font-size: 18px;
+    max-width: 1200px;
+    margin: 0 auto;
 }
 
 h1 {
@@ -17,11 +19,19 @@ h1 {
 }
 
 h2 {
-  font-size: 1.8rem;
+  font-size: 2rem;
   margin-top: 2.5rem;
   margin-bottom: 1rem;
   border-bottom: 2px solid #ddd;
   padding-bottom: 0.3rem;
+}
+
+h3 {
+  font-size: 1.8rem;
+}
+
+h4 {
+  font-size: 1.5rem;
 }
 
 p {
@@ -45,7 +55,6 @@ ul li, ol li {
   border: 1px solid #eee;
   border-radius: 8px;
 }
-
 
 
 
@@ -81,6 +90,39 @@ ol[reversed] > li h3::before {
   content: counter(my-counter) ". ";
 }
 
+/* Large Monitor Breakpoint */
+
+@media screen and (min-width: 1200px) {
+  body {
+    padding: 3rem 4rem;
+    max-width: 1200px;
+    margin: 0 auto;
+    font-size: 19px;
+  }
+
+  h1 {
+    font-size: 3.5rem;
+  }
+
+  h2 {
+    font-size: 2.75rem;
+    margin-top: 3rem;
+  }
+
+  h3 {
+    font-size: 2.5rem;
+  }
+
+  h4 {
+    font-size: 2.1rem;
+  }
+
+  p {
+    font-size: 1.5rem;
+
+  }
+}
+
 /* Tablet/Restrictive Laptop Breakpoint */
 
 @media screen and (min-width: 778px) and (max-width: 1023px) {
@@ -90,8 +132,40 @@ ol[reversed] > li h3::before {
 /* Phone Breakpoint */
 
 @media screen and (max-width: 777px) {
-  h1 {
-    /*font-size: 5rem;*/
+  h2 {
+    font-size: 2rem;
+  }
+
+  h3 {
+    font-size: 1.8rem;
+  }
+
+
+  h4 {
+    font-size: 1.5rem;
+    margin-top: 3rem;
+  }
+
+  ol li, ul li, ol[reversed] > li {
+    background: none;
+    padding: 0;
+    border: none;
+    border-radius: 0;
+    border-bottom: 2px solid #ddd;
+    box-shadow: none;
+  }
+
+  li img {
+    width: 100%;
+    height: auto;
+  }
+
+  ul > li:last-child, ol > li:last-child {
+    border-bottom: none;
+  }
+  
+  ol[reversed] > li {
+    background: none;
   }
 }
 

@@ -34,7 +34,6 @@ This ranking heavily considers the official RCS top fifty rankings provided by R
 
 ### FireIcey/Kaos
 
-#### Players' Profile:
 The European Rivals of Aether scene, although not as extensive as the North American scene, flourished during the game's lifespan. Two players clearly stood out amongst the rest. Kaos, who dominated the first three seasons playing any character he felt like, and FireIcey, who took up Kaos's number one mantle and held it for the next five seasons with his fearsome green Zetterburn. Both of these players in their primes had seasons where they would win every tournament they entered. Although they mostly stayed in Europe, Kaos is notable for being the only player ever to be ranked on both the NA and EU rankings. The grip that these two titans had on the scene was undeniable, and it's a travesty that the EU and NA regions weren't more interconnected. If they were, these two would surely be in contention for this list.
 
 </li>
@@ -42,7 +41,7 @@ The European Rivals of Aether scene, although not as extensive as the North Amer
 
 ### Blue
 
-<img src="/assets/images/wrastor-portrait.png" alt="Wrastor"/>
+<img src="/assets/images/wrastor-portrait.png" width="400" height="400" alt="Wrastor"/>
 
 #### Character(s):
 Wrastor
@@ -64,7 +63,7 @@ While his stats may not jump out at you, Blue was in contention for the best pla
 
 ### CheesyPotato
 
-<img src="/assets/images/kragg-portrait.png" alt="Kragg"/>
+<img src="/assets/images/kragg-portrait.png" width="400" height="400" alt="Kragg"/>
 
 #### Character(s):
 Kragg
@@ -86,7 +85,7 @@ CheesyPotato is a player who came into her own in the online era. Using that as 
 
 ### Seggo
 
-<img src="/assets/images/olympia-portrait.png" alt="Olympia"/>
+<img src="/assets/images/olympia-portrait.png" width="400" height="400" alt="Olympia"/>
 
 #### Character(s):
 Kragg, Elliana, Shovel Knight, Olympia
@@ -116,7 +115,7 @@ Seggo gave top-level representation to characters rarely seen in competitive Riv
 
 ### DolphinBrick
 
-<img src="/assets/images/orcane-portrait.png" alt="Orcane"/>
+<img src="/assets/images/orcane-portrait.png" width="400" height="400" alt="Orcane"/>
 
 #### Character(s):
 Orcane
@@ -139,7 +138,7 @@ DolphinBrick was the best Orcane in the world until his retirement, where he pas
 
 ### Soulrifle211
 
-<img src="/assets/images/maypul-portrait.png" alt="Maypul"/>
+<img src="/assets/images/maypul-portrait.png" width="400" height="400" alt="Maypul"/>
 
 #### Character(s):
 Maypul
@@ -163,7 +162,7 @@ He was a key player in the infamous season 8 race for first. Him, Kusi, and Cake
 
 ### BioBirb
 
-<img src="/assets/images/wrastor-portrait.png" alt="Wrastor"/>
+<img src="/assets/images/wrastor-portrait.png" width="400" height="400" alt="Wrastor"/>
 
 #### Character(s):
 Wrastor
@@ -185,7 +184,7 @@ Another old school legend of the game, BioBirb, formally known as Windows, is a 
 
 ### Kusi
 
-<img src="/assets/images/ori-portrait.png" alt="Ori and Sein"/>
+<img src="/assets/images/ori-portrait.png" width="400" height="400" alt="Ori and Sein"/>
 
 #### Character(s):
 Ori and Sein, Wrastor
@@ -207,7 +206,7 @@ Kusi has had similar placements to Xaro, placing top ten in four seasons. Howeve
 
 ### Xaro 
 
-<img src="/assets/images/orcane-portrait.png" alt="Orcane"/>
+<img src="/assets/images/orcane-portrait.png" width="400" height="400" alt="Orcane"/>
 
 #### Character(s):
 Orcane
@@ -231,7 +230,7 @@ His Orcane was a beauty to behold, especially since Orcane is a rarer character 
 
 ### ZeeBee
 
-<img src="/assets/images/kragg-portrait.png" alt="Kragg"/>
+<img src="/assets/images/kragg-portrait.png" width="400" height="400" alt="Kragg"/>
 
 #### Character(s):
 Kragg, Etalus, Mollo
@@ -258,7 +257,7 @@ His career has been defined by his steady top-level play. Making the top fifty i
 #### Character(s):
 Kragg
 
-<img src="/assets/images/kragg-portrait.png" alt="Kragg"/>
+<img src="/assets/images/kragg-portrait.png" width="400" height="400" alt="Kragg"/>
 
 #### Season Rankings:
 9, 6, 7, 6, 11, 8, 13, 12
@@ -277,7 +276,7 @@ MSB and Penguin have had similar career trajectories. Both have shown remarkable
 
 ### FullStream
 
-<img src="/assets/images/etalus-portrait.png" alt="Etalus"/>
+<img src="/assets/images/etalus-portrait.png" width="400" height="400" alt="Etalus"/>
 
 #### Character(s):
 Etalus, Zetterburn
@@ -301,7 +300,7 @@ Surprisingly, Rivals of Aether is FullStream's first platform fighter. You would
 
 ### Penguin 
 
-<img src="/assets/images/absa-portrait.png" alt="Absa"/>
+<img src="/assets/images/absa-portrait.png" width="400" height="400" alt="Absa"/>
 
 #### Character(s):
 Absa
@@ -325,7 +324,7 @@ As a player, Penguin utilized Absa’s unique movement like no other. The way sh
 
 ### CakeAssault 
 
-<img src="/assets/images/forsburn-portrait.png" alt="Forsburn"/>
+<img src="/assets/images/forsburn-portrait.png" width="400" height="400" alt="Forsburn"/>
 
 #### Character(s):
 Forsburn
