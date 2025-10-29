@@ -7,7 +7,7 @@ body {
     padding: 2rem;
     line-height: 1.7;
     font-size: 18px;
-    max-width: 1200px;
+    max-width: 1440px;
     margin: 0 auto;
 }
 
@@ -42,6 +42,11 @@ hr {
   border: none;
   border-top: 2px solid #ddd;
   margin: 2rem 0;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
 }
 
 ul, ol {
@@ -92,10 +97,10 @@ ol[reversed] > li h3::before {
 
 /* Large Monitor Breakpoint */
 
-@media screen and (min-width: 1200px) {
+@media screen and (min-width: 1440px) {
   body {
     padding: 3rem 4rem;
-    max-width: 1200px;
+    max-width: 1440px;
     margin: 0 auto;
     font-size: 19px;
   }
@@ -129,7 +134,7 @@ ol[reversed] > li h3::before {
     
 }
 
-/* Phone Breakpoint */
+/* Phone Breakpoints */
 
 @media screen and (max-width: 777px) {
   h2 {
@@ -155,11 +160,6 @@ ol[reversed] > li h3::before {
     box-shadow: none;
   }
 
-  li img {
-    width: 100%;
-    height: auto;
-  }
-
   ul > li:last-child, ol > li:last-child {
     border-bottom: none;
   }
@@ -169,3 +169,9 @@ ol[reversed] > li h3::before {
   }
 }
 
+@media screen and (max-width: 425px) {
+  li img {
+    width: 100%;
+    height: auto;
+  }
+}
