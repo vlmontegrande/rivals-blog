@@ -7,7 +7,7 @@ body {
     padding: 2rem;
     line-height: 1.7;
     font-size: 18px;
-    max-width: 1440px;
+    max-width: 800px;
     margin: 0 auto;
 }
 
@@ -99,8 +99,8 @@ ol[reversed] > li h3::before {
 
 @media screen and (min-width: 1440px) {
   body {
-    padding: 3rem 4rem;
-    max-width: 1440px;
+    padding: 3rem 2rem;
+    max-width: 800px;
     margin: 0 auto;
     font-size: 19px;
   }
