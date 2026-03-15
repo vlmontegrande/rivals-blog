@@ -1,6 +1,6 @@
 # Rivals of Aether Blog - blog.vlmontegrande.com
 
-This is my personal blog for the platform fighting game Rivals of Aether. It's built with Eleventy, a static site generator, and containerized with Docker + nginx on my self-hosted web server. The localhost on the server is exposed via a Cloudflare tunnel.
+This is my personal blog for the platform fighting game Rivals of Aether. It's built with Eleventy, a static site generator, and containerized with Docker + nginx on my self-hosted web server.
 
 ## Usage
 
