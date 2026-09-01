@@ -7,9 +7,6 @@
     <meta name="description" content="{{ description | escape }}">
     <title>{{ title | escape }}</title>
     <link rel="stylesheet" href="/assets/css/{{ page.fileSlug | default: 'index' }}.css">
-    <!-- Cloudflare Web Analytics -->
-    <script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "b7a7239e7ed04b6ba23c17ca5a4eff53"}'></script>
-    <!-- End Cloudflare Web Analytics -->
   </head>
   <body>
     {{ content }}
